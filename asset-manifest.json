@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/money-management-hackathon/static/css/main.e6c13ad2.css",
-    "main.js": "/money-management-hackathon/static/js/main.018b8c08.js",
+    "main.js": "/money-management-hackathon/static/js/main.f2c04312.js",
     "static/js/787.5d33e205.chunk.js": "/money-management-hackathon/static/js/787.5d33e205.chunk.js",
     "index.html": "/money-management-hackathon/index.html",
     "main.e6c13ad2.css.map": "/money-management-hackathon/static/css/main.e6c13ad2.css.map",
-    "main.018b8c08.js.map": "/money-management-hackathon/static/js/main.018b8c08.js.map",
+    "main.f2c04312.js.map": "/money-management-hackathon/static/js/main.f2c04312.js.map",
     "787.5d33e205.chunk.js.map": "/money-management-hackathon/static/js/787.5d33e205.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.018b8c08.js"
+    "static/js/main.f2c04312.js"
   ]
 }
