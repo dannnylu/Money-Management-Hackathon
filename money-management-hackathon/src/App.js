@@ -12,12 +12,8 @@ import Contact from './pages/contact';
 function App() {
 return (
 	
-	
-
-<div class="container">
-	<div class="centerButton">
-		<button class="button"><span>Get Started </span></button>
-	</div>
+	<div>
+<h1> Monkey Money🐒 </h1>
 
 	
 	<Router>
