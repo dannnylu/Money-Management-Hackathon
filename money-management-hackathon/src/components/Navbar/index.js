@@ -11,13 +11,13 @@ return (
 			Monthly-Income
 		</NavLink>
 		<NavLink to="/contact" activeStyle>
-			Contact Us
+			Monthly Expenses
 		</NavLink>
 		<NavLink to="/blogs" activeStyle>
-			Blogs
+			Money Tips
 		</NavLink>
 		<NavLink to="/sign-up" activeStyle>
-			Sign Up
+			Sign-In
 		</NavLink>
 		</NavMenu>
 	</Nav>
