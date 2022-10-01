@@ -1,0 +1,2 @@
+# Money-Management-Hackathon
+Geaux Hack Fall 2022 Prompt 3: Prompt 3:  Managing personal expenses can be difficult to effectively moderate and accurately execute. Consumers may be unaware of poor spending habits such as forgetting recurring subscriptions or being unaware how much a cup of coffee compounds over time through repeated purchase. Using tech-based skills at your disposal, help users with personal expense issues track their spending. 
