@@ -37,6 +37,19 @@
   }
 }
 
+
+.incomeForm{ /* this is used to display the Monthly income input */
+
+  display: flex;
+  height: 64px;
+  background-color: yellow;
+  text-align: center;
+
+}
+
+
+
+
 .center {
   text-align: center;
   border: 3px solid green;
