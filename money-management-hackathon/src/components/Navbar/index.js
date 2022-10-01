@@ -8,7 +8,7 @@ return (
 	<Nav>
 		<NavMenu>
 		<NavLink to="/about" activeStyle>
-			About
+			Monthly-Income
 		</NavLink>
 		<NavLink to="/contact" activeStyle>
 			Contact Us

@@ -11,6 +11,9 @@ import Contact from './pages/contact';
 
 function App() {
 return (
+	
+	<div>
+<h1> Monkey Money🐒 </h1>
 
 	
 	<Router>
