@@ -1,3 +1,4 @@
+
 import React, {useState} from "react";
 
 // const About = () => {
@@ -32,6 +33,5 @@ function About () { /*This is the Monthly Income page that takes a monthly incom
 	</form>
 	)
 	}
-	
 
 export default About;

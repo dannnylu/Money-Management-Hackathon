@@ -12,6 +12,14 @@ import Contact from './pages/contact';
 function App() {
 return (
 	
+	
+
+<div class="container">
+	<div class="centerButton">
+		<button class="button"><span>Get Started </span></button>
+	</div>
+
+	
 	<Router>
 	<Navbar />
 	<Routes>
@@ -22,6 +30,7 @@ return (
 		<Route path='/sign-up' element={<SignUp/>} />
 	</Routes>
 	</Router>
+	</div>
 );
 }
 
