@@ -26,6 +26,8 @@ return (
 		<Route path='/sign-up' element={<SignUp/>} />
 	</Routes>
 	</Router>
+
+  </div>
 );
 }
 

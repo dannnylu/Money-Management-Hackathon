@@ -2,7 +2,8 @@ import React, {useState} from "react";
 
 //Monkey Recurring expenditures page made by Michael Carroll mcarr52@lsu.edu
 
-function Contact () {
+function Contact () { //Ran out of time so I just mirrored the Monthly Income code. Was planning to store multiple values in an array and add
+					  //together in a for loop.
 
 	const [monthlyExpense, setMonthlyExpense] = useState(0); 
 	return (
